@@ -10,3 +10,31 @@ surgir conflictos
 
 
 2. Contactar a Sergiooooooooo!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Escribo en la linea 40, para ver q no haya conflicto!
