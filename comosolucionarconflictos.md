@@ -8,3 +8,4 @@ surgir conflictos
 1.2 abro los pull request del repositorio remoto en github
 1.3 si al darle merge a ese repositorio me sale conflicto debo si os si resolverlo en mi editor.
 
+3.me sale en pantalla el archivo con todas las nuevas modificaciones y en resaltado los conflictos
