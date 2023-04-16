@@ -10,3 +10,11 @@ surgir conflictos
 
 
 2. Contactar a Sergiooooooooo!
+
+
+
+
+
+
+
+En la linea 20.....no debe haber conflicto
