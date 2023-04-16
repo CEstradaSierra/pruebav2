@@ -13,3 +13,7 @@ surgir conflictos
 
 3.me sale en pantalla el archivo con todas las nuevas modificaciones y en resaltado los conflictos
 
+
+
+
+En la linea 20.....no debe haber conflicto
