@@ -11,6 +11,8 @@ surgir conflictos
 
 2. Contactar a Sergiooooooooo!
 
+3.me sale en pantalla el archivo con todas las nuevas modificaciones y en resaltado los conflictos
+
 
 
 
@@ -38,3 +40,6 @@ surgir conflictos
 
 
 Escribo en la linea 40, para ver q no haya conflicto!
+
+En la linea 20.....no debe haber conflicto
+
