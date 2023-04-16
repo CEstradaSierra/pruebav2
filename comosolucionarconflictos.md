@@ -11,8 +11,7 @@ surgir conflictos
 
 2. Contactar a Sergiooooooooo!
 
-
-
+3.me sale en pantalla el archivo con todas las nuevas modificaciones y en resaltado los conflictos
 
 
 
